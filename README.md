@@ -1,5 +1,8 @@
 # TrelloAutomatedTestsUIAPIPlaywrightPytest
 
+## Description
+Automated UI and API testing using Playwright and Pytest.
+
 ## Table of Contents
 
 1. [Cloning an automated test repository](#cloning-an-automated-test-repository)
